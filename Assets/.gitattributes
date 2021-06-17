@@ -1,0 +1,5 @@
+*.obj filter=lfs diff=lfs merge=lfs -text
+Prefabs/ filter=lfs diff=lfs merge=lfs -text
+EffectExamples/ filter=lfs diff=lfs merge=lfs -text
+Audio/ filter=lfs diff=lfs merge=lfs -text
+Shared/ filter=lfs diff=lfs merge=lfs -text

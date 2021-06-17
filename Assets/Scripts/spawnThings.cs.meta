@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 85a8197baf2a5ee45992322aef4aad59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {instanceID: 0}
+  - healthPowerup: {instanceID: 0}
+  - invisiblePowerup: {instanceID: 0}
+  - speedPowerup: {instanceID: 0}
+  - teleportPowerup: {instanceID: 0}
+  - enemy1: {instanceID: 0}
+  - enemy2: {instanceID: 0}
+  - enemy3: {instanceID: 0}
+  - enemy4: {instanceID: 0}
+  - enemy5: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &26961246172952290
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8452975170741736629}
+  - component: {fileID: 3867241779778450329}
+  m_Layer: 0
+  m_Name: Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8452975170741736629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 26961246172952290}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 41.31136, y: 10.681961, z: 6.573601}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3867241779778450329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 26961246172952290}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85a8197baf2a5ee45992322aef4aad59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  coinPrefab: {fileID: 1747836489169262677, guid: 31d570a11aee06545b8e8c7a3aa67880, type: 3}
+  healthPowerup: {fileID: 3320441635817598737, guid: 730fb736b871e3d498e945439b33b693, type: 3}
+  invisiblePowerup: {fileID: 7350889846076812416, guid: 1b167fb15d3afe845a66bf963ab2ccfb, type: 3}
+  speedPowerup: {fileID: 4946052900534598586, guid: 973e1c9757dc7914f9d1cbf44f62c44f, type: 3}
+  teleportPowerup: {fileID: 3183781930093608502, guid: 2003767a807f9e34a9713eef2fbe49de, type: 3}
+  laserPowerup: {fileID: 1415343357857078769, guid: eb86da13172cf3b4fb30276e01dc4329, type: 3}
+  enemy1: {fileID: 4754419226024999604, guid: a24ff3652d9bddf4b938ff39e121f968, type: 3}
+  enemy2: {fileID: 3729386919550335101, guid: 51d84338ae821a0429c74e7eeb3dc993, type: 3}
+  enemy3: {fileID: 2203643980049814970, guid: 046dbe05421a3664a83bd7031b8c8ef5, type: 3}
+  enemy4: {fileID: 3852660109556602137, guid: d08faf54238efbc4ab1212de941aa17b, type: 3}
+  enemy5: {fileID: 7873331187804757181, guid: a3085813298b48242a730042eb51348e, type: 3}
+  boss: {fileID: 6421702854523611272, guid: 267133a748ef7924d916a12698a43f7e, type: 3}
+  bossSpawn: {fileID: 0}

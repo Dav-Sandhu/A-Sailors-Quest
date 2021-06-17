@@ -1,0 +1,24 @@
+Andrew Ferasol:
+- 6 zone prefabs
+- precedural level generation (zoneTracker.cs + destroyThings.cs)
+	- spawning zone prefabs	(zoneTracker.cs)
+	- spawning enemies	(zone.cs + spawnThings.cs)
+	- spawning coin prefab	(platform.cs + zone.cs + spawnThings.cs)
+	- spawning platforms	(platform.cs + zoneTracker.cs)
+
+Davanjit Sandhu:
+- menu scene
+- splash screen scene
+- description scene
+- level 1 scene (level 2 and 3 scenes were just copy pastes of level 1)
+- score saving
+- enemy prefabs and scripts
+- player movement (Player.cs)
+- sound effects/music
+- 2 powerups (manditory)
+
+Abdulaziz Khan:
+- 3 powerups (bonus)
+- 2 platform prefabs
+- coin prefab
+- pause/resume button + script

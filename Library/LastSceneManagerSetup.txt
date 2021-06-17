@@ -1,0 +1,33 @@
+sceneSetups:
+- path: Assets/Scenes/Splash Screen.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Main Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Description.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Level 1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Level 2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Level 3.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Level Complete.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Game Over.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
